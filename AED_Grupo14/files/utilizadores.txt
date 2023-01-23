@@ -1,0 +1,4 @@
+admin;admin;admin
+manu;123;user
+bernas;1234;user
+r;r;user
